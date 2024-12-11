@@ -9,3 +9,7 @@ Handles messy folders in seconds.
 Saves time and effort by automating repetitive tasks.
 Keeps your workspace clean and organized.
 Perfect for personal or professional use—whether you're managing a cluttered Downloads folder or sorting project files.
+
+# Bonus😉:
+Inside dist directory you will find an extension that will facilitate to you the execution of the code.  
+
